@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @redtoolskobe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ChanceYu/ChanceYu/blob/master/assets/hi.gif" width="30px"></h2>
 
-<!---
-redtoolskobe/redtoolskobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<img height="200" src="https://github.com/ChanceYu/ChanceYu/blob/master/assets/hang.gif">
